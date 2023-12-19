@@ -1,0 +1,5 @@
+python -m pip install watchdog
+python -m pip install firebase
+python -m pip install firebase-functions
+python -m pip install pycryptodome~=3.12.0
+python -m pip install Pyrebase4
